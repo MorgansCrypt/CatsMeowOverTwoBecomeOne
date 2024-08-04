@@ -2,19 +2,7 @@ title: Cat's Meow over Two Become One
 originalAuthor: MorgansCrypt
 description: 'Cat's Meow replaces Two Become One, designed by Hate_bit444.'
 assets:
+- name: obj/W_EX010.mdlx
   method: copy
   source:
-  - name: obj/W_EX010_P0.mdlx
-- name: obj/W_EX010_P0_NM.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_P0.mdlx
-- name: obj/W_EX010_P0_TR.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_P0.mdlx
-- name: obj/W_EX010_P0_WI.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_P0.mdlx
-- name: msg/us/sys.bar
+  - name: obj/W_Wunafo.mdlx
