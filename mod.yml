@@ -36,6 +36,97 @@ assets:
   method: copy
   source:
   - name: remastered/obj/W_EX010_P0_TR.mdlx/-0.dds
+#Effects Swap -0
+- name: remastered/obj/W_EX010_P0_NM.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_NM.a.us/-0.dds
+- name: remastered/obj/W_EX010_P0_TR.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_TR.a.us/-0.dds
+- name: remastered/obj/W_EX010_P0_WI.a.us/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.a.us/-0.dds
+#Effects Swap -1
+- name: remastered/obj/W_EX010_P0_NM.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_NM.a.us/-1.dds
+- name: remastered/obj/W_EX010_P0_TR.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_TR.a.us/-1.dds
+- name: remastered/obj/W_EX010_P0_WI.a.us/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.a.us/-1.dds
+#Effects Swap -2
+- name: remastered/obj/W_EX010_P0_NM.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_NM.a.us/-2.dds
+- name: remastered/obj/W_EX010_P0_TR.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_TR.a.us/-2.dds
+- name: remastered/obj/W_EX010_P0_WI.a.us/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.a.us/-2.dds
+#Effects Swap -3
+- name: remastered/obj/W_EX010_P0_NM.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_NM.a.us/-3.dds
+- name: remastered/obj/W_EX010_P0_TR.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_TR.a.us/-3.dds
+- name: remastered/obj/W_EX010_P0_WI.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.a.us/-3.dds
+#Effects Swap -4
+- name: remastered/obj/W_EX010_P0_NM.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_NM.a.us/-4.dds
+- name: remastered/obj/W_EX010_P0_TR.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_TR.a.us/-4.dds
+- name: remastered/obj/W_EX010_P0_WI.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.a.us/-4.dds
+#Effects Swap -5
+- name: remastered/obj/W_EX010_P0_NM.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_NM.a.us/-5.dds
+- name: remastered/obj/W_EX010_P0_TR.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_TR.a.us/-5.dds
+- name: remastered/obj/W_EX010_P0_WI.a.us/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.a.us/-5.dds
+#Effects Swap -6
+- name: remastered/obj/W_EX010_P0_NM.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_NM.a.us/-6.dds
+- name: remastered/obj/W_EX010_P0_TR.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_TR.a.us/-6.dds
+- name: remastered/obj/W_EX010_P0_WI.a.us/-6.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_P0_WI.a.us/-6.dds
 #TextEdit
 - name: msg/us/sys.bar
   method: binarc
